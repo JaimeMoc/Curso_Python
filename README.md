@@ -1,0 +1,3 @@
+# Curso Python por Linkedin...
+
+Este repositorio esta pensado para subir los notebooks realizados durante el curso de Linkedin de Python.
