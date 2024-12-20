@@ -14,4 +14,4 @@ Este proyecto es una API de películas desarrollada en Django como parte del boo
 - **Django REST Framework**: Extensión de Django para construir APIs RESTful.
 - **SQLite**: Base de datos utilizada para el desarrollo.
 
-!logo
+![Logo de Django](https://github.com/JaimeMoc/Curso_Python/blob/e62b91e6c77432a2782d66435f698b4864236e1d/Django/logo.png)
